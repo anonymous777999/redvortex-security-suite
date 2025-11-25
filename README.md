@@ -148,7 +148,6 @@ Choose option:
 
 #### Menu
 ![Menu Screenshot](https://github.com/anonymous777999/redvortex-security-suite/blob/main/Screenshots/MENU-1.png)
-![Menu Screenshot](https://github.com/anonymous777999/redvortex-security-suite/blob/main/Screenshots/OPTION-1.png)
 ![Menu Screenshot](https://github.com/anonymous777999/redvortex-security-suite/blob/main/Screenshots/OPTION-2.png)
 ![Menu Screenshot](https://github.com/anonymous777999/redvortex-security-suite/blob/main/Screenshots/OPTION-3.png)
 ![Menu Screenshot](https://github.com/anonymous777999/redvortex-security-suite/blob/main/Screenshots/OPTION-4.png)
